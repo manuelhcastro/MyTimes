@@ -73,7 +73,7 @@ header{
   padding-left: 30px;
   padding-right: 30px;
   justify-content: space-between;
-  
+
 
 }
 
@@ -83,6 +83,7 @@ header{
   width:   630px;
   display: flex;
   flex-direction: column;
+  margin-left: 20px;
 
 
 
