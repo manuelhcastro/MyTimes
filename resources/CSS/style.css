@@ -98,7 +98,7 @@ header{
   margin-right: 32px;
 
 }
-.column.small{
+.column-small{
   width:  240px;
   display: flex;
   flex-direction: column;
