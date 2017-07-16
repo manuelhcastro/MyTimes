@@ -95,7 +95,7 @@ header{
   width:  300px;
   display: flex;
   flex-direction: column;
-  margin-right: 32px;
+  margin-left: 32px;
 
 }
 .column-small{
